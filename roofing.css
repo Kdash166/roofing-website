@@ -1,0 +1,82 @@
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .navbar-brand {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    color: #ffc107;
+  }
+  
+  /* Jumbotron styles */
+  .jumbotron {
+    background-color: #f0f0f0;
+  }
+  
+  .display-4 {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  .lead {
+    font-size: 24px;
+  }
+  
+  /* Services section styles */
+  .col-sm-4 {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .col-sm-4 h2 {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .col-sm-4 ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .col-sm-4 li {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  /* Gallery section styles */
+  .col-sm-8 {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .col-sm-8 h2 {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .col-sm-8 p {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
