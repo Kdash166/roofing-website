@@ -31,45 +31,17 @@
   font-weight: bold;
   text-shadow: 2px 2px #000;
 }
-/* Services section styles */
-.col-sm-4 {
-  background-color: #fff;
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-}
 
-.col-sm-4 h2 {
-  font-size: 28px;
-  font-weight: bold;
-}
-
-.col-sm-4 ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.col-sm-4 li {
-  margin-bottom: 10px;
-  font-size: 18px;
-}
 
 /* Gallery section styles */
-.col-sm-10 {
-  padding: 20px;
-  background-color: #fff;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-}
 
-.col-sm-10 h2 {
+
+.col-sm-8 h2 {
   font-size: 28px;
   font-weight: bold;
 }
 
-.col-sm-10 p {
-  margin-bottom: 20px;
-  font-size: 18px;
-}
+
 
 .img-fluid {
   max-width: 100%;
