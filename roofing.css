@@ -1,4 +1,8 @@
 /* Navbar styles */
+h2{
+  padding-top:20px;
+  padding-bottom:20px;
+}
 .navbar {
   background-color: #333;
   color: #fff;
